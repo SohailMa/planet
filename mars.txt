@@ -1,8 +1,13 @@
 Ready to github
 venus is better
 Martians are good. I like to go there. It is cold there
+<<<<<<< HEAD
 HELLO from zarrin 
 
 
 
+=======
+Mahdi:
+I like Mars more. How you like Venus more? its hottttt
+>>>>>>> 591abf729fc88640632f409af5826aa615f2435e
 
